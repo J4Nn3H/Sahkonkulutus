@@ -1,0 +1,434 @@
+{
+    "2016": {
+        "Tammikuu": {
+            "Kulutus": 999.41,
+            "Lampötila": -14.7
+        },
+        "Helmikuu": {
+            "Kulutus": 594.77,
+            "Lampötila": -2.6
+        },
+        "Maaliskuu": {
+            "Kulutus": 685.99,
+            "Lampötila": -1.5
+        },
+        "Huhtikuu": {
+            "Kulutus": 511.12,
+            "Lampötila": 3.5
+        },
+        "Toukokuu": {
+            "Kulutus": 217.18,
+            "Lampötila": 12.4
+        },
+        "Kesäkuu": {
+            "Kulutus": 217.92,
+            "Lampötila": 14.3
+        },
+        "Heinäkuu": {
+            "Kulutus": 198.43,
+            "Lampötila": 16.5
+        },
+        "Elokuu": {
+            "Kulutus": 219.33,
+            "Lampötila": 14.1
+        },
+        "Syyskuu": {
+            "Kulutus": 338.06,
+            "Lampötila": 10.2
+        },
+        "Lokakuu": {
+            "Kulutus": 569.02,
+            "Lampötila": 2.6
+        },
+        "Marraskuu": {
+            "Kulutus": 728.55,
+            "Lampötila": -2.9
+        },
+        "Joulukuu": {
+            "Kulutus": 819.34,
+            "Lampötila": -2.9
+        },
+        "Yhteensä": {
+            "Kulutus": 6099.12,
+            "Lampötila": 0.0
+        }
+    },
+    "2017": {
+        "Tammikuu": {
+            "Kulutus": 885.59,
+            "Lampötila": -4.7
+        },
+        "Helmikuu": {
+            "Kulutus": 857.12,
+            "Lampötila": -5.8
+        },
+        "Maaliskuu": {
+            "Kulutus": 630.96,
+            "Lampötila": -1.2
+        },
+        "Huhtikuu": {
+            "Kulutus": 502.35,
+            "Lampötila": 0.4
+        },
+        "Toukokuu": {
+            "Kulutus": 260.62,
+            "Lampötila": 7.0
+        },
+        "Kesäkuu": {
+            "Kulutus": 146.67,
+            "Lampötila": 12.5
+        },
+        "Heinäkuu": {
+            "Kulutus": 133.96,
+            "Lampötila": 14.4
+        },
+        "Elokuu": {
+            "Kulutus": 170.37,
+            "Lampötila": 14.0
+        },
+        "Syyskuu": {
+            "Kulutus": 253.46,
+            "Lampötila": 9.1
+        },
+        "Lokakuu": {
+            "Kulutus": 432.59,
+            "Lampötila": 3.6
+        },
+        "Marraskuu": {
+            "Kulutus": 562.88,
+            "Lampötila": 0.8
+        },
+        "Joulukuu": {
+            "Kulutus": 612.71,
+            "Lampötila": -1.5
+        },
+        "Yhteensä": {
+            "Kulutus": 5449.28,
+            "Lampötila": 0.0
+        }
+    },
+    "2018": {
+        "Tammikuu": {
+            "Kulutus": 840.11,
+            "Lampötila": -5.2
+        },
+        "Helmikuu": {
+            "Kulutus": 864.36,
+            "Lampötila": -11.2
+        },
+        "Maaliskuu": {
+            "Kulutus": 790.0,
+            "Lampötila": -7.3
+        },
+        "Huhtikuu": {
+            "Kulutus": 466.31,
+            "Lampötila": 3.0
+        },
+        "Toukokuu": {
+            "Kulutus": 224.44,
+            "Lampötila": 13.7
+        },
+        "Kesäkuu": {
+            "Kulutus": 177.13,
+            "Lampötila": 14.1
+        },
+        "Heinäkuu": {
+            "Kulutus": 188.62,
+            "Lampötila": 20.3
+        },
+        "Elokuu": {
+            "Kulutus": 175.92,
+            "Lampötila": 16.6
+        },
+        "Syyskuu": {
+            "Kulutus": 309.78,
+            "Lampötila": 11.2
+        },
+        "Lokakuu": {
+            "Kulutus": 532.43,
+            "Lampötila": 4.3
+        },
+        "Marraskuu": {
+            "Kulutus": 676.26,
+            "Lampötila": 1.3
+        },
+        "Joulukuu": {
+            "Kulutus": 890.91,
+            "Lampötila": -4.0
+        },
+        "Yhteensä": {
+            "Kulutus": 6136.27,
+            "Lampötila": 0.0
+        }
+    },
+    "2019": {
+        "Tammikuu": {
+            "Kulutus": 971.76,
+            "Lampötila": -10.7
+        },
+        "Helmikuu": {
+            "Kulutus": 728.55,
+            "Lampötila": -3.3
+        },
+        "Maaliskuu": {
+            "Kulutus": 783.25,
+            "Lampötila": -2.3
+        },
+        "Huhtikuu": {
+            "Kulutus": 464.24,
+            "Lampötila": 4.7
+        },
+        "Toukokuu": {
+            "Kulutus": 350.51,
+            "Lampötila": 9.1
+        },
+        "Kesäkuu": {
+            "Kulutus": 184.81,
+            "Lampötila": 16.1
+        },
+        "Heinäkuu": {
+            "Kulutus": 205.17,
+            "Lampötila": 15.7
+        },
+        "Elokuu": {
+            "Kulutus": 240.54,
+            "Lampötila": 14.6
+        },
+        "Syyskuu": {
+            "Kulutus": 389.62,
+            "Lampötila": 9.0
+        },
+        "Lokakuu": {
+            "Kulutus": 603.98,
+            "Lampötila": 2.5
+        },
+        "Marraskuu": {
+            "Kulutus": 741.63,
+            "Lampötila": -1.0
+        },
+        "Joulukuu": {
+            "Kulutus": 820.75,
+            "Lampötila": -1.5
+        },
+        "Yhteensä": {
+            "Kulutus": 6484.81,
+            "Lampötila": 0.0
+        }
+    },
+    "2020": {
+        "Tammikuu": {
+            "Kulutus": 770.47,
+            "Lampötila": -0.5
+        },
+        "Helmikuu": {
+            "Kulutus": 733.23,
+            "Lampötila": -2.2
+        },
+        "Maaliskuu": {
+            "Kulutus": 697.07,
+            "Lampötila": -0.8
+        },
+        "Huhtikuu": {
+            "Kulutus": 656.54,
+            "Lampötila": 1.7
+        },
+        "Toukokuu": {
+            "Kulutus": 422.12,
+            "Lampötila": 7.6
+        },
+        "Kesäkuu": {
+            "Kulutus": 172.09,
+            "Lampötila": 17.9
+        },
+        "Heinäkuu": {
+            "Kulutus": 197.35,
+            "Lampötila": 15.1
+        },
+        "Elokuu": {
+            "Kulutus": 191.14,
+            "Lampötila": 14.8
+        },
+        "Syyskuu": {
+            "Kulutus": 524.93,
+            "Lampötila": 10.7
+        },
+        "Lokakuu": {
+            "Kulutus": 744.69,
+            "Lampötila": 6.0
+        },
+        "Marraskuu": {
+            "Kulutus": 849.37,
+            "Lampötila": 2.6
+        },
+        "Joulukuu": {
+            "Kulutus": 1002.5,
+            "Lampötila": -1.1
+        },
+        "Yhteensä": {
+            "Kulutus": 6961.5,
+            "Lampötila": 0.0
+        }
+    },
+    "2021": {
+        "Tammikuu": {
+            "Kulutus": 974.99,
+            "Lampötila": -7.3
+        },
+        "Helmikuu": {
+            "Kulutus": 1104.35,
+            "Lampötila": -10.4
+        },
+        "Maaliskuu": {
+            "Kulutus": 987.05,
+            "Lampötila": -3.1
+        },
+        "Huhtikuu": {
+            "Kulutus": 792.22,
+            "Lampötila": 2.8
+        },
+        "Toukokuu": {
+            "Kulutus": 609.41,
+            "Lampötila": 9.2
+        },
+        "Kesäkuu": {
+            "Kulutus": 392.81,
+            "Lampötila": 18.6
+        },
+        "Heinäkuu": {
+            "Kulutus": 350.59,
+            "Lampötila": 19.6
+        },
+        "Elokuu": {
+            "Kulutus": 449.35,
+            "Lampötila": 14.0
+        },
+        "Syyskuu": {
+            "Kulutus": 688.44,
+            "Lampötila": 7.5
+        },
+        "Lokakuu": {
+            "Kulutus": 777.28,
+            "Lampötila": 6.2
+        },
+        "Marraskuu": {
+            "Kulutus": 990.27,
+            "Lampötila": -0.9
+        },
+        "Joulukuu": {
+            "Kulutus": 1337.707,
+            "Lampötila": -9.2
+        },
+        "Yhteensä": {
+            "Kulutus": 9454.467,
+            "Lampötila": 0.0
+        }
+    },
+    "2022": {
+        "Tammikuu": {
+            "Kulutus": 1261.917,
+            "Lampötila": -6.2
+        },
+        "Helmikuu": {
+            "Kulutus": 980.748,
+            "Lampötila": -4.7
+        },
+        "Maaliskuu": {
+            "Kulutus": 947.489,
+            "Lampötila": -1.5
+        },
+        "Huhtikuu": {
+            "Kulutus": 782.007,
+            "Lampötila": 1.5
+        },
+        "Toukokuu": {
+            "Kulutus": 587.92,
+            "Lampötila": 9.0
+        },
+        "Kesäkuu": {
+            "Kulutus": 421.8,
+            "Lampötila": 15.6
+        },
+        "Heinäkuu": {
+            "Kulutus": 373.818,
+            "Lampötila": 16.8
+        },
+        "Elokuu": {
+            "Kulutus": 364.749,
+            "Lampötila": 16.8
+        },
+        "Syyskuu": {
+            "Kulutus": 610.879,
+            "Lampötila": 7.6
+        },
+        "Lokakuu": {
+            "Kulutus": 757.329,
+            "Lampötila": 5.5
+        },
+        "Marraskuu": {
+            "Kulutus": 929.53,
+            "Lampötila": -0.1
+        },
+        "Joulukuu": {
+            "Kulutus": 1168.935,
+            "Lampötila": -5.3
+        },
+        "Yhteensä": {
+            "Kulutus": 9187.121,
+            "Lampötila": 0.0
+        }
+    },
+    "2023": {
+        "Tammikuu": {
+            "Kulutus": 1045.147,
+            "Lampötila": -3.6
+        },
+        "Helmikuu": {
+            "Kulutus": 1038.624,
+            "Lampötila": -4.8
+        },
+        "Maaliskuu": {
+            "Kulutus": 1135.8,
+            "Lampötila": -4.7
+        },
+        "Huhtikuu": {
+            "Kulutus": 794.904,
+            "Lampötila": 2.5
+        },
+        "Toukokuu": {
+            "Kulutus": 537.311,
+            "Lampötila": 10.0
+        },
+        "Kesäkuu": {
+            "Kulutus": 401.549,
+            "Lampötila": 15.3
+        },
+        "Heinäkuu": {
+            "Kulutus": 317.663,
+            "Lampötila": 15.9
+        },
+        "Elokuu": {
+            "Kulutus": 370.442,
+            "Lampötila": 16.0
+        },
+        "Syyskuu": {
+            "Kulutus": 474.335,
+            "Lampötila": 13.0
+        },
+        "Lokakuu": {
+            "Kulutus": 742.513,
+            "Lampötila": 1.1
+        },
+        "Marraskuu": {
+            "Kulutus": 837.195,
+            "Lampötila": -3.7
+        },
+        "Joulukuu": {
+            "Kulutus": 1021.29,
+            "Lampötila": -8.1
+        },
+        "Yhteensä": {
+            "Kulutus": 8716.773,
+            "Lampötila": 0.0
+        }
+    }
+}
