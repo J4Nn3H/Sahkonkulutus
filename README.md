@@ -1,0 +1,1 @@
+Pieni sovellus sähkönkulutuksen seurantaan. Ohjelma lataa enegriayhtiön paikkakohtaisista tiedostostoista dataa vuosittaisista sähkönkulutuksista ja sovelluksella voi hakea tietoa vuosittaisista ja kuukausittaisista kulutuksista.
